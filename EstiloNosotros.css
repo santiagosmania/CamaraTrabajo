@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    
+    
+}
+:root{
+    --principal: rgb(84, 186, 233);
+    --secondary:  #f5f5f5fa;
+    --grad-bg: green;
+    --font-primary: "Inter" , sans-serif;
+    --font-secondary: "Browly One SC" , cursive;
+    --text-lg: 2em;
+    --text-md: 1.6em;
+
+}
+
+
+h1{
+    color: white;
+    background: rgb(12, 122, 12);
+}
+
+
+
+
+footer .contacto{
+    color: white;
+    
+   
+}
+
+footer{
+  padding: 500px;
+}
+
+.inf{
+    color: white;
+    
+    
+}
+
+.info{
+    background:white;
+    align-items: center;
+}
+
+
+.card-header{
+    background: rgb(12, 122, 12);
+}
+
+.card-body{
+    background: rgb(12, 122, 12);
+}
+
+.card-text{
+    background: white;
+}
+
+.card-title{
+    background: white;
+}
+
+footer{
+    background: var(--grad-bg)
+}
+
+.navbar {
+    background:green;
+}
+
+.img{
+    padding: 10rem;
+}
