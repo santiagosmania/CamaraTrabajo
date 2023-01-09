@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #98a898, #7b9f7b, #5e965d, #3e8c3f, #06811b);
+    background-image: linear-gradient(to right, #FEFEDF);
 }
 
 
@@ -64,6 +64,8 @@ A:hover{
 .col {
     opacity: 1;
     border: #02ae59;
+    text-align: center;
+    
 
 }
 
@@ -107,11 +109,74 @@ footer {
 }
 
 .btn-light{
-    margin: 25px;
+    
+   margin-left: 50%;
 }
 
 
 .inf{
     text-decoration: none;
     color: black;
+}
+
+
+.CM{
+   
+    text-align: center;
+}
+.MP{
+    justify-content: center;
+    text-align: center;
+}
+
+
+.text{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+.sectionTwo{
+    text-align: center;
+}
+
+
+footer{
+    text-align: center;
+}
+
+
+h4{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+
+h2{
+    text-align: center;
+}
+
+
+.form-check{
+    text-align: center;
+    margin-right: 25%;
+}
+
+.SectionThree{
+    text-align: center;
+}
+
+.color{
+    text-align: center
+}
+
+.img{
+    text-align: center;
 }
