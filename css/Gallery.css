@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to right, #FEFEDF);
+}
+
+
+:root {
+    --principal: rgb(84, 186, 233);
+
+
+    --font-primary: "Inter", sans-serif;
+    --font-secondary: "Browly One SC", cursive;
+    --text-lg: 2em;
+    --text-md: 1.6em;
+
+}
+
+A:hover{
+   color: black;
+}
+
+.buttons {
+
+
+    margin-top: 30px;
+    height: 120px;
+
+
+}
+
+.buttons a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: rgb(2, 107, 16);
+    color: #f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    transition: all .4s ease-in-out;
+
+}
+
+.img{
+    text-align: center;
+}
