@@ -15,6 +15,7 @@ body {
 
 
 
+
 .buttons {
 
 
@@ -48,6 +49,20 @@ body {
     color: white;
 }
 
+
+footer{
+    font-size: 25px;
+    margin-left: 1%;
+}
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
+
+.navbar-nav{
+    font-weight: 1000;
+}
 
 @media screen and (max-width: 768px) {
     .ul{

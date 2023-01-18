@@ -10,7 +10,14 @@ body{
 
 A:hover{
     color: white;
+    background-color: lightblue;
 }
+
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
 
 .buttons {
    
@@ -37,6 +44,7 @@ A:hover{
 
 footer{
     font-size: 25px;
+    margin-left: 1%;
     
 }
 
@@ -46,7 +54,9 @@ footer{
     color: green;
 }
 
-
+.navbar-nav{
+    font-weight: 1000;
+}
 
 .color-link{
     text-decoration: none;

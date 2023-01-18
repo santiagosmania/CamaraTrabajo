@@ -52,6 +52,16 @@ A:hover{
     text-align: center;
 }
 
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
+
+
+.navbar-nav{
+    font-weight: 1000;
+}
+
 
 @media screen and (max-width: 768px) {
     .ul{
@@ -75,4 +85,10 @@ A:hover{
         
     }
 
+}
+
+
+footer{
+    font-size: 25px;
+    margin-left: 1%;
 }

@@ -4,11 +4,8 @@
     box-sizing: border-box;
 }
 
-body{
-    
-    
-    
-}
+ 
+
 :root{
     --principal: rgb(84, 186, 233);
     --secondary:  #f5f5f5fa;
@@ -27,6 +24,14 @@ h1{
 }
 
 
+.navbar-nav{
+    font-weight: 1000;
+}
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
 
 
 footer .contacto{

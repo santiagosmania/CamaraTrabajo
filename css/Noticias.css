@@ -64,11 +64,21 @@ body{
 
 footer{
     font-size: 25px;
+    margin-left: 1%;
 }
 
 h5{
     font-size: 25px;
 }
+
+.navbar-nav{
+    font-weight: 1000;
+}
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
 
 
 @media screen and (max-width: 768px) {

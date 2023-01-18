@@ -45,6 +45,25 @@ footer{
 
 
 
+.navbar-nav{
+    font-weight: 1000;
+}
+
+
+footer{
+    font-size: 25px;
+    margin-left: 1%;
+  }
+  
+  
+
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
+
+
 A:hover { 
    
 }

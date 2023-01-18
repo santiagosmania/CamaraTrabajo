@@ -37,6 +37,7 @@ A:hover{
 
 footer{
     font-size: 25px;
+    margin-left: 1%;
     
 }
 
@@ -46,6 +47,14 @@ footer{
     color: green;
 }
 
+.navbar-nav{
+    font-weight: 1000;
+}
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
 
 .color-link{
     text-decoration: none;

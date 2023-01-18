@@ -58,6 +58,16 @@ h6{
     font-size: 25px;
 }
 
+.navbar-nav{
+    font-weight: 1000;
+}
+
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
+
 main{
     font-size: 25px;
 }
@@ -65,6 +75,7 @@ main{
 
 footer{
     font-size: 25px;
+    margin-left: 1%;
 }
 
 

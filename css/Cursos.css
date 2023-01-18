@@ -64,6 +64,12 @@ body {
     margin: 20px;
 }
 
+footer{
+    font-size: 25px;
+    margin-left: 5%;
+}
+
+
 
 .card-body a {
 
@@ -73,6 +79,20 @@ body {
 
 }
 
+
+.navbar-nav{
+    font-weight: 1000;
+}
+
+.navbar-nav A:hover {
+  
+    background: lightskyblue;
+ }
+
+.msg{
+    margin: auto;
+    
+}
 
 
 @media screen and (max-width: 768px) {
@@ -98,3 +118,4 @@ body {
     }
 
 }
+

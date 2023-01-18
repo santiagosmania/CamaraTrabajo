@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #FEFEDF);
+    background-image: linear-gradient(to right, #98a898, #7b9f7b, #5e965d, #3e8c3f, #06811b);
 }
 
 
@@ -20,9 +20,11 @@ body {
 
 }
 
-A:hover{
-   color: black;
+.navbar-nav A:hover {
+  
+   background: lightskyblue;
 }
+
 
 .buttons {
 
@@ -48,10 +50,13 @@ A:hover{
 
 }
 
+.navbar-nav{
+    font-weight: 1000;
+}
 
 .color-link {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 
@@ -79,6 +84,7 @@ A:hover{
 
 .img {
     opacity: 1;
+    
 
 }
 
@@ -90,6 +96,7 @@ A:hover{
 
 .text {
     font-size: 25px;
+    color: black;
 }
 
 .sectionTwo {
@@ -110,7 +117,12 @@ footer {
 
 .btn-light{
     
-   margin-left: 50%;
+   margin-left: 48%;
+ 
+}
+
+.btn-light A:hover{
+    color: black;
 }
 
 
@@ -146,12 +158,14 @@ h3{
 
 
 footer{
-    text-align: center;
+    
+    margin-left: 1%;
 }
 
 
 h4{
-    text-align: center;
+    
+    color: black;
 }
 
 h1{
@@ -161,6 +175,7 @@ h1{
 
 h2{
     text-align: center;
+    color: black;
 }
 
 
@@ -175,6 +190,7 @@ h2{
 
 .color{
     text-align: center
+
 }
 
 .img{
@@ -205,3 +221,15 @@ h2{
     }
 
 }
+
+.container .color-link a{
+  
+    text-decoration: none;
+    color: white;
+}
+
+.btn-success{
+    text-align: center;
+}
+
+
