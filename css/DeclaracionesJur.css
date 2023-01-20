@@ -68,15 +68,14 @@ A:hover { /* color para cuando el mouse esta over*/
     .descarga{
         margin-right: 35%;
         text-align: center;
-
-    
-
    
     }
-
+    
     body{
-        width: auto;
+        text-align: center;
     }
+
+    
     .info{
         flex-wrap: wrap;
     }
