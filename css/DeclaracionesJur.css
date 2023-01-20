@@ -70,12 +70,11 @@ A:hover { /* color para cuando el mouse esta over*/
         text-align: center;
    
     }
-    
+  
     body{
         text-align: center;
     }
 
-    
     .info{
         flex-wrap: wrap;
     }

@@ -70,13 +70,12 @@ A:hover{
 
    body{
     text-align: center;
-    width: auto;
+    
    }
    
-   .img{
-    width: 300px;
-   
-   }
+  .img{
+    max-width: 300px;
+  }
     .info{
         flex-wrap: wrap;
     }
