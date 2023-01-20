@@ -205,6 +205,8 @@ h2{
 
    body{
     text-align: center;
+    
+    width: auto;
    }
 
     .info{
