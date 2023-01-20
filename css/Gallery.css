@@ -70,11 +70,15 @@ A:hover{
 
    body{
     text-align: center;
-    width: 610px;
+    width: auto;
+ 
     
    }
+
+   .img{
+    max-width: 200px;
    
- 
+   }
     .info{
         flex-wrap: wrap;
     }
