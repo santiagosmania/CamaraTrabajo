@@ -71,7 +71,11 @@ A:hover{
    body{
     text-align: center;
    }
-
+   
+   .img{
+    width: 300px;
+   
+   }
     .info{
         flex-wrap: wrap;
     }

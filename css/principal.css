@@ -207,6 +207,11 @@ h2{
     text-align: center;
    }
 
+
+   .btn-light{
+    margin-right: 100%;
+   }
+
     .info{
         flex-wrap: wrap;
     }
