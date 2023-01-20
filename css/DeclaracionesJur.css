@@ -66,8 +66,10 @@ A:hover { /* color para cuando el mouse esta over*/
     }
 
     .descarga{
+        margin-right: 35%;
         text-align: center;
-        margin-left: 15%;
+
+        
     }
     .info{
         flex-wrap: wrap;
@@ -86,7 +88,7 @@ A:hover { /* color para cuando el mouse esta over*/
 
 .descarga{
   text-align: center;
-  margin-left: 35%;
+  margin-left: 25%;
 }
 
 h1{
