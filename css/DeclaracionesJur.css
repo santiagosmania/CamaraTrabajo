@@ -69,7 +69,13 @@ A:hover { /* color para cuando el mouse esta over*/
         margin-right: 35%;
         text-align: center;
 
-        
+    
+
+   
+    }
+
+    body{
+        width: auto;
     }
     .info{
         flex-wrap: wrap;
