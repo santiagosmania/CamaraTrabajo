@@ -1,47 +1,41 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; }
-
-
-
-
-A:hover { 
-        
-    
-     
+    box-sizing: border-box;
 }
 
-
-
-
-  
-body{
+body {
     background-image: linear-gradient(to right, #98a898, #7b9f7b, #5e965d, #3e8c3f, #06811b);
 }
 
-.Not{
-    color: white;
+
+:root {
+    --principal: rgb(84, 186, 233);
+
+
+    --font-primary: "Inter", sans-serif;
+    --font-secondary: "Browly One SC", cursive;
+    --text-lg: 2em;
+    --text-md: 1.6em;
+
 }
 
-
-
-.btn-success a{
-    color:white;
-    text-decoration: none;
+.navbar-nav A:hover {
+  
+   background: lightskyblue;
 }
 
 
 .buttons {
-   
-    
+
+
     margin-top: 30px;
     height: 120px;
-   
 
-  }
 
-  .buttons a {
+}
+
+.buttons a {
     text-decoration: none;
     font-size: 28px;
     width: 60px;
@@ -57,33 +51,31 @@ body{
 }
 
 
-.color-text{
-    text-decoration: none;
-    color: green
+.navbar-nav{
+    font-weight: 1000;
 }
 
-.color-text A:hover{
-    color: green;
+.color-link {
+    text-decoration: none;
+    color: black;
 }
+
+
 footer{
     font-size: 25px;
     margin-left: 1%;
 }
 
-h5{
-    font-size: 25px;
-}
-
-.navbar-nav{
-    font-weight: 1000;
-}
 
 .navbar-nav A:hover {
   
     background: lightskyblue;
  }
-
-
+ 
+.color{
+    font-weight: 1000;
+    color: black;
+}
 @media screen and (max-width: 768px) {
     .ul{
         font-size: .4em;

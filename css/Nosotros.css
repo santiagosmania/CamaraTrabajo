@@ -48,6 +48,9 @@ footer{
 }
 
 
+.btn A:hover{
+    color: blue;
+}
 
 .color-link{
     text-decoration: none;
@@ -56,7 +59,20 @@ footer{
 
 }
 
+h1{
+    color: black;
+}
+.container{
+    color: black;
+}
 
+
+.btn a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    
+}
 
 @media screen and (max-width: 768px) {
     .ul{
@@ -84,6 +100,3 @@ footer{
 }
 
 
-.btn{
-    text-align: center;
-}
