@@ -5,9 +5,13 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #98a898, #7b9f7b, #5e965d, #3e8c3f, #06811b);
+    background-color: #79d29b;
 }
 
+/* background-color: #088e3b; */
+.navbar{
+    background-color: rgb(209, 222, 209);
+}
 
 :root {
     --principal: rgb(84, 186, 233);
@@ -34,6 +38,8 @@ body {
 
 
 }
+
+
 
 .buttons a {
     text-decoration: none;
@@ -156,10 +162,16 @@ h3{
     text-align: center;
 }
 
-
+.fo{
+    background-color: #478d47;
+    
+}
 footer{
     
     margin-left: 1%;
+    text-align: center;
+  
+ 
 }
 
 
@@ -233,4 +245,7 @@ h2{
     text-align: center;
 }
 
+.navbar-nav a {
+    color: white;
+}
 
