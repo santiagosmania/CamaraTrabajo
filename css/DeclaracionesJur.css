@@ -35,7 +35,7 @@ body{
 
 footer{
     font-size: 25px;
-    margin-right: 35%;
+    margin-left: 1%;
 }
 
 
@@ -101,4 +101,12 @@ h1{
 
 h2{
     text-align: center;
+}
+
+.row{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+  
+
 }
