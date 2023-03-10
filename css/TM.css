@@ -13,6 +13,12 @@ body{
     color: white;
 }
 
+  A:hover{
+    
+    color:black;
+
+}
+
 
 footer{
     font-size: 25px;
@@ -75,5 +81,24 @@ footer{
         grid-template-rows: 15vh 1fr 15vh;
         
     }
+
+}
+
+
+
+.row{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+
+
+.card{
+    margin-bottom: 5%;
+}
+
+.resultado{
+    text-align: center;
+    color: white;
 
 }

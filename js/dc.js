@@ -27,7 +27,7 @@ const filtrar = () =>{
 
     }
     if ( resultado.innerHTML === '' ){
-        resultado.innerHTML = `<li>Producto no encontrado</li>`
+        resultado.innerHTML = `<h3 class="resultado"> Dispocision Circular no encontrada  </h3>`
     }
 
 }

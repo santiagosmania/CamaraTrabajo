@@ -16,7 +16,7 @@ const filtrar = () =>{
                 <img src=${producto.imagen} class="card" alt="..." width="150px">
                 <div class="card-body">
                     <h5 class="card-title"> ${producto.nombre}</h5>
-                    <p class="card-title"> ${producto.destino}</p>
+                    <p class="card-title"> </p>
                     <button type="submit" class="btn btn-success"><a
                     href=${producto.link}
                     target="_blank" class="color-link">DESCARGAR Declaracion</a> </button>
@@ -28,7 +28,7 @@ const filtrar = () =>{
 
     }
     if ( resultado.innerHTML === '' ){
-        resultado.innerHTML = `<li>Producto no encontrado</li>`
+        resultado.innerHTML = `<h3 class="resultado"> Declaracion Jurada no encontrada  </h3>`
     }
 
 }

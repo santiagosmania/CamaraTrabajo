@@ -110,3 +110,13 @@ h2{
   
 
 }
+
+
+.card{
+    margin-bottom: 5%;
+}
+
+.resultado{
+    text-align: center;
+    color: white;
+}
