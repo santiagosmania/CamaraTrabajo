@@ -63,6 +63,7 @@ body {
 .color-link {
     text-decoration: none;
     color: black;
+   
 }
 
 
@@ -126,6 +127,7 @@ footer {
    margin-left: 48%;
  
 }
+
 
 .btn-light A:hover{
     color: black;
@@ -198,6 +200,7 @@ h2{
 
 .SectionThree{
     text-align: center;
+    color:white;
 }
 
 .color{
@@ -249,3 +252,11 @@ h2{
     color: white;
 }
 
+.est{
+    font-size: 35px;
+}
+
+.color-info a{
+    text-decoration: none;
+    color: white;
+}

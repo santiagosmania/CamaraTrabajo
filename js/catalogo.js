@@ -352,7 +352,7 @@ const productos = [
 
 
     {
-        nombre: ' PLACAS PROVISORIAS Y CÉDULAS EN EXTRAÑA JURISDICCIÓN VIGENCIA 12/08/2019',
+        nombre: ' PLACAS PROVISORIAS Y CEDULAS EN EXTRAÑA JURISDICCIÓN VIGENCIA 12/08/2019',
         destino: 'Disposición 249/2019',
         imagen: '../imagens/simbolo.png',
         link:'https://acrobat.adobe.com/link/file/?x_api_client_id=chrome_extension_viewer&theme=light&uri=urn%3Aaaid%3Asc%3AUS%3Af471de56-f849-4b42-bcf2-1a27c80fa18b&filetype=application%2Fpdf&size=164397'
@@ -416,17 +416,17 @@ const productos = [
 
      
     {
-        nombre: ' CÉDULAS DIGITALES INSTRUCTIVO',
+        nombre: ' CEDULAS DIGITALES INSTRUCTIVO VIS',
         destino: ' CIRCULAR DN Nº 21/2019',
         imagen: '../imagens/simbolo.png',
         link:'https://acrobat.adobe.com/link/file/?x_api_client_id=chrome_extension_viewer&theme=light&uri=urn%3Aaaid%3Asc%3AUS%3A507ba1b6-6bb1-4d5e-aec1-4895f7ea57d5&filetype=image%2Fjpeg&size=207720&viewer%21megaVerb=group-discover',
-        links:'https://acrobat.adobe.com/link/file/?x_api_client_id=chrome_extension_viewer&theme=light&uri=urn%3Aaaid%3Asc%3AUS%3A799d55fa-acfd-4113-ae79-007304602e81&filetype=image%2Fjpeg&size=277156&viewer%21megaVerb=group-discover'
+       
     },
 
 
        
     {
-        nombre: ' CÉDULAS DIGITALES INSTRUCTIVO',
+        nombre: ' CEDULAS DIGITALES INSTRUCTIVO',
         destino: ' CIRCULAR D.N. Nº 21',
         imagen: '../imagens/simbolo.png',
         link:'https://acrobat.adobe.com/link/file/?x_api_client_id=chrome_extension_viewer&theme=light&uri=urn%3Aaaid%3Asc%3Aus%3A9ee8da7f-81c5-4680-bdd8-97e152be6f63&filetype=application%2Fpdf&size=28760&viewer%21megaVerb=group-discover'
@@ -437,7 +437,7 @@ const productos = [
         nombre: 'CEDULA DIGITAL',
         destino: ' CIRCULAR D.N. Nº 21',
         imagen: '../imagens/simbolo.png',
-        link:'https://acrobat.adobe.com/link/file/?x_api_client_id=chrome_extension_viewer&theme=light&uri=urn%3Aaaid%3Asc%3AUS%3A9bba34b6-25e1-4e10-ba07-63b0194d3205&filetype=application%2Fpdf&size=87068'
+        link:'https://acrobat.adobe.com/link/file/?x_api_client_id=chrome_extension_viewer&theme=light&uri=urn%3Aaaid%3Asc%3AUS%3A93da01ba-8465-4d30-a1de-f4c8d73e15aa&filetype=application%2Fpdf&size=87068&viewer%21megaVerb=group-discover'
     },
 
        
